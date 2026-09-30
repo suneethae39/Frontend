@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+    padding: 10px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 30px;
+}
+
+.hero{
+    border: solid black;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/049/514/749/non_2x/beautiful-suburban-family-house-front-view-transparent-png.png');
+    background-size: cover;
+
+}
+
+.hero h1{
+    color: red;
+    
+}

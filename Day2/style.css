@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+}
+
+.para{
+    border-style: solid;
+    border-color: blue;
+    border-width: 10px;
+
+    padding:30px;
+    
+    margin:10px;
+
+    width:50%;
+
+    text-align: left;
+    text-align:right;
+
+}
+
+
+
+    
